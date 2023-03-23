@@ -1,2 +1,1 @@
-# Mpesa-Java-Sdk
-# Mpesa-Java-Sdk
+# Mpesa-java-Sdk
